@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-hi 
-
-=======
-hello
->>>>>>> myfeature
+goodmorning
 
