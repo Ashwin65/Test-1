@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 =======
 hi karthik
 >>>>>>> test
 
+=======
+hello Get Lost
+>>>>>>> 3f671dbbdb65c979a3a48cfc5310ead87cd4522a
